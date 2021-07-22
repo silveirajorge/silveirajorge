@@ -4,8 +4,6 @@
    **Tenho 38 anos, resolvi, durante a pandemia (COVID-19), iniciar meus estudos na área de desenvolvimento de Back-End.
 Pretendo me tornar um desenvolvedor.**
 
-beacons.page/jorgesilveira
-
 ---
 
 ## Formação 🎓
